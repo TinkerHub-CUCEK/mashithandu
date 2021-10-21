@@ -1,3 +1,3 @@
 # For The Emperor
 
-let none survive
+Let none survive
